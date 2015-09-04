@@ -4,10 +4,10 @@ version = '0.0.0'
 
 urltemplate = 'https://github.com/rectangletangle/dunderscore/tarball/{version}'
 
-setup(name='dunderscore',
-      packages=['dunderscore'],
+setup(name='__',
+      packages=['__'],
       version=version,
-      description='Useful functions for Python 2 or 3',
+      description='Dunderscore, useful functions for Python 2 or 3',
       author='Drew French',
       author_email='rectangletangle@gmail.com',
       url='https://github.com/rectangletangle/dunderscore',
